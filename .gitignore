@@ -3,4 +3,4 @@ dist/
 .env
 *.log
 package-lock.json
-.history
+.history/
